@@ -139,29 +139,20 @@
                         </ul>
 
 
-                </div><!-- widgets column left end -->
-
-
-
-                <div class="col-lg-3 col-md-3"><!-- widgets column left -->
-
-                <ul class="list-unstyled clear-margins"><!-- widgets -->
-
-                        	<li class="widget-container widget_nav_menu"><!-- widgets list -->
-
-                                <h1 class="title-widget">Useful links</h1>
-
+                </div>
+                <div class="col-lg-3 col-md-3">
+                <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_nav_menu">
+                                <h1 class="title-widget">Others</h1>
                                 <ul>
-
-
-                <li><a href="#"><i class="fa fa-angle-double-right"></i> Enquiry Form</a></li>
- 				<li><a href="#"><i class="fa fa-angle-double-right"></i> Online Test Series</a></li>
-				<li><a href="#"><i class="fa fa-angle-double-right"></i> Grand Tests Series</a></li>
-				<li><a href="#"><i class="fa fa-angle-double-right"></i> Subject Wise Test Series</a></li>
-				<li><a href="#"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
-				<li><a href="#"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
-                <li><a href="#"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
-				<li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
+                   <li><a href="#"><i class="fa fa-angle-double-right"></i> Customer</a></li>
+ 				           <li><a href="#"><i class="fa fa-angle-double-right"></i> Online Test Service</a></li>
+				           <li><a href="#"><i class="fa fa-angle-double-right"></i> Developers</a></li>
+				           <li><a href="#"><i class="fa fa-angle-double-right"></i> Advertisement</a></li>
+				           <li><a href="#"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
+				           <li><a href="#"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
+                   <li><a href="#"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
+				           <li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
 
                                 </ul>
 							</li>
