@@ -90,12 +90,10 @@
 <footer class="footer1">
 <div class="container">
 
-<div class="row"><!-- row -->
-
-                <div class="col-lg-3 col-md-3"><!-- widgets column left -->
-                <ul class="list-unstyled clear-margins"><!-- widgets -->
-
-                        	<li class="widget-container widget_nav_menu"><!-- widgets list -->
+<div class="row">
+                <div class="col-lg-3 col-md-3">
+                <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_nav_menu">
 
                                 <h1 class="title-widget">About iMARKET</h1>
 
@@ -111,18 +109,11 @@
                         </ul>
 
 
-                </div><!-- widgets column left end -->
-
-
-
-                <div class="col-lg-3 col-md-3"><!-- widgets column left -->
-
-                <ul class="list-unstyled clear-margins"><!-- widgets -->
-
-                        	<li class="widget-container widget_nav_menu"><!-- widgets list -->
-
+                </div>
+                <div class="col-lg-3 col-md-3">
+                <ul class="list-unstyled clear-margins">
+                        	<li class="widget-container widget_nav_menu">
                                 <h1 class="title-widget">CATEGORIES</h1>
-
                                 <ul>
  									<li><a  href="#"><i class="fa fa-angle-double-right"></i>  WOMAN</a></li>
                                     <li><a  href="#"><i class="fa fa-angle-double-right"></i>  MAN</a></li>
@@ -133,12 +124,8 @@
                                     <li><a  href="#"><i class="fa fa-angle-double-right"></i>  LATEST</a></li>
 
                                 </ul>
-
 							</li>
-
                         </ul>
-
-
                 </div>
                 <div class="col-lg-3 col-md-3">
                 <ul class="list-unstyled clear-margins">
@@ -155,7 +142,7 @@
 				           <li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
 
                                 </ul>
-							</li>
+                              </li>
                         </ul>
 					</div>
 
